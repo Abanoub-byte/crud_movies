@@ -8,3 +8,4 @@ steps to run:
 - navigate to your repo where main.go file exist
 - run command "go build" then run "go run main.go"
 - open Postman, now you can enjoy the tools of Postman Get, update or delete a movie
+- END
